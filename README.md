@@ -2,7 +2,7 @@
 Secure website using SHA256, DES and RSA.  
   
 ### Register  
-A user can register using password greater than 6 charactors.  
+A user can register using password greater than 6 characters.  
 SHA256 was used for encrypting password.  
 
 ### Login
