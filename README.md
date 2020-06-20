@@ -1,5 +1,5 @@
 ## Web Security
-Secure website using DES and RSA  
+Secure website using SHA256, DES and RSA.  
   
 ### Register  
 A user can register using password greater than 6 charactors.  
