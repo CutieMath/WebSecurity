@@ -15,8 +15,8 @@ The program will use DES to encrypt user's credit card number and RSA key chosen
 RSA to encrypt all information the user submitted to the server.  
 The program will then use DES and RSA to decrypt all information, print to a txt file.  
   
-  
-**Github offers static web hosting.   
+<br>
+**Github offers static web hosting.  
 So the program can only be demonstrated using a hosting platform such as VPS**
 
 
