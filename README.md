@@ -1,5 +1,5 @@
 ## Web Security
-My first HTML project.  
+My first web project.  
 Secure website using SHA256, DES and RSA.  
   
 ### Register  
