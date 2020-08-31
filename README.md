@@ -17,6 +17,6 @@ The program will then use DES and RSA to decrypt all information, print to a txt
   
 
 **Github offers static web hosting.  
-So the program can only be demonstrated using a hosting platform such as VPS**
+So the program can be demonstrated using a hosting platform**
 
 
