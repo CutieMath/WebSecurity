@@ -16,7 +16,6 @@ RSA to encrypt all information the user submitted to the server.
 The program will then use DES and RSA to decrypt all information, print to a txt file.<br><br>
   
 
-**Github offers static web hosting.  
-So the program can be demonstrated using a hosting platform**
+**The program can be demonstrated on a hosting platform**
 
 
